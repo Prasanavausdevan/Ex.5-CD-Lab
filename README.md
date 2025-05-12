@@ -62,7 +62,8 @@ printf("enter the string\n"); yyparse();
 
 ```
 # OUTPUT
-![379688830-efe62914-544c-47f9-bbe7-a36f581beb6a](https://github.com/user-attachments/assets/0ad9fbad-420d-40ac-85f0-abfbe3b2c634)
+
+![Screenshot from 2025-05-12 17-45-11](https://github.com/user-attachments/assets/170cd324-6b1a-4414-9ab1-a5b0429ade90)
 
 
 
